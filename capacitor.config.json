@@ -1,0 +1,15 @@
+{
+  "appId": "com.personal.workbench",
+  "appName": "个人工作台",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#f5f6f8"
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_workbench",
+      "iconColor": "#3b6fe0"
+    }
+  }
+}
